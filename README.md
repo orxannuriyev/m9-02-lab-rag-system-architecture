@@ -25,7 +25,9 @@ pip install -r requirements.txt
 export GOOGLE_API_KEY="your-free-gemini-key"
 ```
 
-You'll use **Chroma** as the vector store and a Gemini chat model for generation. Work in `rag_pipeline.ipynb` or `.py`.
+You'll use **Chroma** as the vector store and a Gemini chat model for generation.
+
+> **No starter code — you build it from scratch.** There's no template in this repo; create your own working file(s) and write the code yourself. This close to the end of the bootcamp, scaffolding your own project is part of the exercise.
 
 ## Your Task
 
